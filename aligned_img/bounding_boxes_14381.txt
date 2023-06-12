@@ -1,0 +1,5 @@
+./aligned_img\Sowmiya\upFace20.png
+./aligned_img\Sowmiya\upFace21.png
+./aligned_img\Sowmiya\upFace22.png
+./aligned_img\Sowmiya\upFace23.png
+./aligned_img\Thalir\rightFace6.png
